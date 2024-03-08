@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--atalho: ! + enter/tab-->
+<!--atalho: html:5 + enter-->
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body><!--só existe 1-->
+        <header>
+            <!--cabeçalho da pagina-->
+            <h1>Titulo 1</h1>
+            <hr><!--linha-->
+            <nav>
+                <!--Menu de navegação-->
+                <p>Navegando...</p>
+            </nav>
+            <hr>
+            <main><!--todo o conteudo do site-->
+                <section><!--sessões do corpo principal-->
+                    <h2>Seção 1</h2><!--atalho: lorem + enter para esse texto abaixo -->
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem nobis, provident incidunt dolorem maiores mollitia numquam cumque aperiam magni? Laborum sint pariatur soluta voluptas eius illum consequatur ducimus accusantium laboriosam.</p>
+                </section>
+                <br><!--pula a linha-->
+                <section>
+                    <h2>Seção 2</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem quod amet fuga voluptas rerum magnam dolorum impedit soluta, provident voluptatibus dolorem accusamus laudantium quas veritatis. Nulla explicabo quae reiciendis mollitia?</p>
+                    <h3>Seção 2.1</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente perferendis magnam quaerat dolorum, vel, rem laudantium laborum veritatis dolores accusamus fuga aut. Voluptatum ea cupiditate harum enim? Fugit, beatae aliquam.</p>
+                </section>
+            </main>
+            <hr>
+            <footer><!--Rodape da pagina-->
+                Até mais mais mias mais mais mais...
+            </footer>
+        </header> 
+
+    </body>
+</html>
